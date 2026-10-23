@@ -41,6 +41,12 @@ Your instructor issues your first password, which you change on first sign-in.
 Weeks marked *not published yet* inside the notebook will be filled in before that
 week's session.
 
+## Lecture notebooks
+
+`notebooks/` holds the code from each week's slides, one notebook per deck. The
+**Colab** button in a deck's header opens that week's copy here (save a copy in Drive to
+keep changes); the download icon beside it gives you the `.ipynb` instead.
+
 ## Notes
 
 Course materials for DS 227 at UP Cebu. Lab notebooks only &mdash; slides and the
